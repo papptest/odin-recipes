@@ -1,0 +1,29 @@
+*{
+    background-color: aqua;
+    color: black;
+    font-size: 24px;
+    font-family:   monospace;
+}
+
+p {
+    text-align: justify;
+}
+
+h1.title {
+    color:#bd0000a2;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    font-weight: 700;
+}
+
+li {
+    color: yellow;
+}
+
+.order li{
+    color: brown;
+}
